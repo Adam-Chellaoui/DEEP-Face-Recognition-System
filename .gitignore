@@ -1,0 +1,5 @@
+test_images/
+train_images/
+deep_learning_project/
+.vscode/settings.json
+.DS_Store
